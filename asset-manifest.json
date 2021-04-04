@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://meghna-nakhate.github.io/csb-97vdk/static/css/main.f271229a.chunk.css",
+    "main.js": "https://meghna-nakhate.github.io/csb-97vdk/static/js/main.5a78258b.chunk.js",
+    "main.js.map": "https://meghna-nakhate.github.io/csb-97vdk/static/js/main.5a78258b.chunk.js.map",
+    "runtime-main.js": "https://meghna-nakhate.github.io/csb-97vdk/static/js/runtime-main.5eb27256.js",
+    "runtime-main.js.map": "https://meghna-nakhate.github.io/csb-97vdk/static/js/runtime-main.5eb27256.js.map",
+    "static/js/2.62f42ab7.chunk.js": "https://meghna-nakhate.github.io/csb-97vdk/static/js/2.62f42ab7.chunk.js",
+    "static/js/2.62f42ab7.chunk.js.map": "https://meghna-nakhate.github.io/csb-97vdk/static/js/2.62f42ab7.chunk.js.map",
+    "index.html": "https://meghna-nakhate.github.io/csb-97vdk/index.html",
+    "static/css/main.f271229a.chunk.css.map": "https://meghna-nakhate.github.io/csb-97vdk/static/css/main.f271229a.chunk.css.map",
+    "static/js/2.62f42ab7.chunk.js.LICENSE.txt": "https://meghna-nakhate.github.io/csb-97vdk/static/js/2.62f42ab7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb27256.js",
+    "static/js/2.62f42ab7.chunk.js",
+    "static/css/main.f271229a.chunk.css",
+    "static/js/main.5a78258b.chunk.js"
+  ]
+}
